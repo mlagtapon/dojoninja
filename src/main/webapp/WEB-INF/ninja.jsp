@@ -76,7 +76,7 @@
     		</div>
         	<div class="form-group row form-inline">
     			<div class="done">
-    				<input class="btn btn-primary" type="submit" value="Create"/>
+    				<input class="btn btn-primary" type="submit" value="Add"/>
     			</div>
     		</div>
 		</form:form> 

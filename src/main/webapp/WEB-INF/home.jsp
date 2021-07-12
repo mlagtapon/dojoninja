@@ -20,10 +20,10 @@
       					<a class="nav-link" id="homenav" href="/">Home</a>
       				</li>
      				 <li class="nav-item">
-        				<a class="nav-link" href="/dojos/new">Add Dojo</a>
+        				<a class="nav-link" href="/dojos/new">Create A Dojo</a>
       				</li>
      				 <li class="nav-item">
-       					 <a class="nav-link" href="/ninjas/new">Add Ninja</a>
+       					 <a class="nav-link" href="/ninjas/new">Add A Ninja</a>
       				</li>
     			</ul>
   			</div>

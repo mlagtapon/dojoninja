@@ -32,7 +32,7 @@
     			</ul>
   			</div>
 		</nav>
-		<h1><c:out value="${aDojo.name}"></c:out></h1>
+		<h1><c:out value="${aDojo.name}"></c:out>'s Ninjas:</h1>
 		<div id="dl">
 			<table class="table table-hover w-75 p-3 mx-auto">
     			<thead>
